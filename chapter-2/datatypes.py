@@ -72,3 +72,8 @@ employee_details = {
     'isFulltimeEmployee' : True
 }
 
+# print value of employee_details variable
+print('Details of employee is -',employee_details)
+
+# print type of variable
+print('Type of employee_details variable is - ',type(employee_details))
