@@ -42,7 +42,7 @@ print('employee FirstName data type is-' ,type(employee_firstName))
 print('employee Number data type is-' ,type(employee_number))
 
 # list data type
-employeeName_list = ['Rohit', 'Anup', 'Shekhar', 'Sam', 'Harshit', 'Shashank']
+employeeName_list = ['Rohit', 'Anup', 'Shekhar', 'Sam', 'Harshit', 'Himanshu']
 
 # print variable values
 print('employee Namelist is-' ,employeeName_list)
