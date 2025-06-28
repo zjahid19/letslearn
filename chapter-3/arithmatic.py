@@ -3,7 +3,7 @@ number_2 = 20
 
 # Addition of two numbers
 addition_result = number_1 + number_2
-print('The addition of two numbers is:', addition_result)
+print('The addition of two numbers {} and {} is: {}'.format(number_1,number_2,addition_result))
 
 # Subtraction of two numbers
 subtraction_result = number_1 - number_2
