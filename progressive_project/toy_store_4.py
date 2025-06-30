@@ -1,4 +1,4 @@
-"""Add Few more Calculations"""
+"""Add Few more Calculations based on if-elif-else"""
 
 # Fixed price of each toy in INR
 toy_price = 100
